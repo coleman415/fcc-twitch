@@ -1,0 +1,25 @@
+.nav {
+  text-align: center;
+}
+
+.nav > li {
+  float: none;
+  display: inline-block;
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+}
+
+.online {
+  background-color: lightgreen;
+}
+
+.offline {
+  background-color: lightpink;
+}
+
+.missing {
+  background-color: yellow;
+}
